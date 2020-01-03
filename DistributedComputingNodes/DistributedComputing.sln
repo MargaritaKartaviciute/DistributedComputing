@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedComputing", "DistributedComputing.csproj", "{17F9419D-7BA6-4095-A594-A290619DAE0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computation", "..\Computation\Computation.csproj", "{33EC5F9A-0C38-4866-8C3A-A7848D97CC5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17F9419D-7BA6-4095-A594-A290619DAE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F9419D-7BA6-4095-A594-A290619DAE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F9419D-7BA6-4095-A594-A290619DAE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F9419D-7BA6-4095-A594-A290619DAE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33EC5F9A-0C38-4866-8C3A-A7848D97CC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33EC5F9A-0C38-4866-8C3A-A7848D97CC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33EC5F9A-0C38-4866-8C3A-A7848D97CC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33EC5F9A-0C38-4866-8C3A-A7848D97CC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5E38C9-024E-4C9B-B880-CCEE15EEBF1A}
+	EndGlobalSection
+EndGlobal

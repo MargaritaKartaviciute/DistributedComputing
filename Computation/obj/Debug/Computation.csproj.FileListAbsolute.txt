@@ -1,0 +1,17 @@
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Computation.exe.config
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Computation.exe
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Computation.pdb
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Apache.Ignite.Core.dll
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Apache.Ignite.exe
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Apache.Ignite.exe.config
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Apache.Ignite.Core.xml
+C:\Users\Margarita\Desktop\Computation\obj\Debug\Computation.csprojAssemblyReference.cache
+C:\Users\Margarita\Desktop\Computation\obj\Debug\Computation.csproj.CopyComplete
+C:\Users\Margarita\Desktop\Computation\obj\Debug\Computation.exe
+C:\Users\Margarita\Desktop\Computation\obj\Debug\Computation.pdb
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Apache.Ignite.AspNet.dll
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Apache.Ignite.Linq.dll
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Remotion.Linq.dll
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Apache.Ignite.AspNet.xml
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Apache.Ignite.Linq.xml
+C:\Users\Margarita\Desktop\Computation\bin\Debug\Remotion.Linq.xml
