@@ -15,3 +15,15 @@ C:\Users\Margarita\Desktop\Computation\bin\Debug\Remotion.Linq.dll
 C:\Users\Margarita\Desktop\Computation\bin\Debug\Apache.Ignite.AspNet.xml
 C:\Users\Margarita\Desktop\Computation\bin\Debug\Apache.Ignite.Linq.xml
 C:\Users\Margarita\Desktop\Computation\bin\Debug\Remotion.Linq.xml
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\bin\Debug\Computation.exe.config
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\bin\Debug\Computation.exe
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\bin\Debug\Computation.pdb
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\bin\Debug\Apache.Ignite.exe.config
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\bin\Debug\Apache.Ignite.AspNet.xml
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\bin\Debug\Apache.Ignite.Core.xml
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\bin\Debug\Apache.Ignite.Linq.xml
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\bin\Debug\Remotion.Linq.xml
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\obj\Debug\Computation.csprojAssemblyReference.cache
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\obj\Debug\Computation.csproj.CopyComplete
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\obj\Debug\Computation.exe
+C:\Users\Margarita\Desktop\DistributedComputing\Computation\obj\Debug\Computation.pdb

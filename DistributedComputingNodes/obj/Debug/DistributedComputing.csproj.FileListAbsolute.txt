@@ -11,3 +11,15 @@ C:\Users\Margarita\Desktop\DistributedComputing\obj\Debug\DistributedComputing.e
 C:\Users\Margarita\Desktop\DistributedComputing\obj\Debug\DistributedComputing.pdb
 C:\Users\Margarita\Desktop\DistributedComputing\bin\Debug\Apache.Ignite.AspNet.dll
 C:\Users\Margarita\Desktop\DistributedComputing\bin\Debug\Apache.Ignite.AspNet.xml
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\bin\Debug\DistributedComputing.exe.config
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\bin\Debug\DistributedComputing.exe
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\bin\Debug\DistributedComputing.pdb
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\bin\Debug\Apache.Ignite.Core.dll
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\bin\Debug\Apache.Ignite.exe
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\bin\Debug\Apache.Ignite.exe.config
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\bin\Debug\Apache.Ignite.AspNet.xml
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\bin\Debug\Apache.Ignite.Core.xml
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\obj\Debug\DistributedComputing.csprojAssemblyReference.cache
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\obj\Debug\DistributedComputing.csproj.CopyComplete
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\obj\Debug\DistributedComputing.exe
+C:\Users\Margarita\Desktop\DistributedComputing\DistributedComputingNodes\obj\Debug\DistributedComputing.pdb

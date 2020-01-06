@@ -16,7 +16,8 @@ using Apache.Ignite.Core.Events;
 namespace Computation
 {
     class Program
-    {      
+    {
+        static int Max = 1000000000; 
         static void Main(string[] args)
         {
             using (var ignite = Ignition.StartFromApplicationConfiguration())
@@ -28,7 +29,7 @@ namespace Computation
                 for (int j = 0; j < 3; j++)
                 {
                     Random rnd = new Random(Guid.NewGuid().GetHashCode());
-                    int y = rnd.Next(Int32.MaxValue);
+                    int y = rnd.Next(Max);
 
                     Console.WriteLine();
 
@@ -36,7 +37,7 @@ namespace Computation
                     var res = -1;
                     var prev = -1;
 
-                    for (int i = 0; i < Int32.MaxValue; i++)
+                    for (int i = 0; i < Max; i++)
                     {
                         res = ignite.GetCompute().Apply(new Fibonaci(), i);
                         if (res >= y)
@@ -53,6 +54,7 @@ namespace Computation
                     nearestFibonacci.Add(closest);
                     Console.WriteLine(">>> Nearest fibonaci for number {0:N} is {1:N}: ", y, closest);
                     Console.WriteLine();
+                    Thread.Sleep(1000);
                 }
 
 
@@ -63,7 +65,7 @@ namespace Computation
                 Console.WriteLine(">>> Fibonaci between: {0:N} - {1:N}", minFib, maxFib);
                 Console.WriteLine();
 
-                Thread.Sleep(5000);
+                Thread.Sleep(1000);
                 List<int> possibleFibonaci = new List<int>();
 
                 for (int i = 0; i < maxFib; i++)
